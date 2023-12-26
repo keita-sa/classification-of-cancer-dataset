@@ -1,4 +1,4 @@
-# classification-of-cancer-dataset
+# classification of cancer dataset
 Demo code for my blog
 
 References;
