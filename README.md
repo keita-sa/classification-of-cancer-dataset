@@ -2,7 +2,7 @@
 Demo code for my blog
 
 References;
-"Machine-Learning by Python, Udemy" 
+"Machine-Learning by Python, Toru Tamaki, Udemy" 
 
 
 
