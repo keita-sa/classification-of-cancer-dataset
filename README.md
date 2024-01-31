@@ -13,7 +13,11 @@ This is an example of a machine learning implementation using logistic regressio
 - scikit-learn
 
 ### Setup
-To set up the application, you need to install the necessary Python packages. You can do this by running:
+
+
+
+
+
 
 ### References;
 "Machine-Learning by Python; An introduction to classification with scikit-learn", Toru Tamaki (2020), Udemy.
