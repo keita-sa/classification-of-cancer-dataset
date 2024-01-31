@@ -7,12 +7,10 @@ This is an example of a machine learning implementation using logistic regressio
 ## Installation
 
 ### Prerequisites
-- Python 3.x
-- Flask
-- yfinance
+- Jupyter Notebook
 - NumPy
+- Pandas
 - scikit-learn
-- Keras
 
 ### Setup
 To set up the application, you need to install the necessary Python packages. You can do this by running:
