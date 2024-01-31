@@ -20,6 +20,9 @@ First, the dataset is split into training and test data. Next, created a classif
 
 Statistical learning is performed using feature values such as cancer radius and surface textures, enabling predictions to be made for unknown data, such as whether it is malignant.
 
+## Result
+In this example, 8 out of 171 were found to be wrong. Since the accuracy seems to be quite high, it seems that there were good features to begin with and the classification problem was not that difficult.
+
 </br>
 
 
