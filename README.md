@@ -13,7 +13,7 @@ This is an example of a machine learning implementation using logistic regressio
 - scikit-learn
 
 ### Setup
-From the download button, you can download the ipynb file as "scikit-learn 1 classification of cancer dateaset.ipynb" in JSON format. Then open it in Jupyter Notebook, you can reproduce exactly the same outputs.
+From the download button, you can download the ipynb file in JSON format. Then open it in Jupyter Notebook, you can reproduce exactly the same outputs.
 
 
 
