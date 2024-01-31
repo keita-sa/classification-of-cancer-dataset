@@ -1,4 +1,4 @@
-# classification of cancer dataset (Logistic regression)
+# Classification Of Cancer Dataset by Logistic Regression
 
 ## Overview
 
