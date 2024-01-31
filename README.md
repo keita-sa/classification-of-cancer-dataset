@@ -17,7 +17,6 @@ From the download button, you can download the ipynb file in JSON format. Then o
 
 \
 \
-\
 
 
 ### References;
