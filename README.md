@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an example of a machine learning implementation of identification by logistic regression. In this example, a dataset of 569 cancers is used to identify and predict whether each is malignant or benign. Malignant is labeled 0 and benign is labeled 1, each with 30 features. Because it identifies malignant and benign, it is called a two-class problem, for example.
+This is an example of a machine learning implementation using logistic regression for classification. In this case, a dataset consisting of 569 instances of cancer is employed to predict whether each instance is malignant (labeled 0) or benign (labeled 1), based on 30 features of each instance. This problem is referred to as a two-class problem, given its task of distinguishing between malignant and benign cases.
 
 
 ### References;
