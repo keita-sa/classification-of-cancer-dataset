@@ -1,4 +1,5 @@
-# classification of cancer dataset
+# classification of cancer dataset (Logistic regression)
+
 Demo code for my blog
 
 References;
