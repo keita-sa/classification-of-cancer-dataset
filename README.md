@@ -15,7 +15,7 @@ This is an example of a machine learning implementation using logistic regressio
 ### Setup
 From the download button, you can download the ipynb file in JSON format. Then open it in Jupyter Notebook, you can reproduce exactly the same outputs.
 
-\
+</br>
 
 
 ### References;
