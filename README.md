@@ -18,6 +18,7 @@ From the download button, you can download the ipynb file in JSON format. Then o
 ## Method
 First, the dataset is split into training and test data. Next, created a classifier and trained using the training data. Here, we create a logistic regression classifier. Based on the training outputs, we make predictions on the test data. We then check how well the predictions match the original test data.
 
+Statistical learning is performed using feature values such as cancer radius and surface textures, enabling predictions to be made for unknown data, such as whether it is malignant.
 
 </br>
 
