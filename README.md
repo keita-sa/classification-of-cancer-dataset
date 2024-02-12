@@ -23,10 +23,9 @@ Statistical learning is performed using feature values such as cancer radius and
 ## Result
 In this example, 8 out of 171 were found to be wrong. Since the accuracy seems to be quite high, it seems that there were good features to begin with and the classification problem was not that difficult.
 
-</br>
 
 
-## References;
+## References
 "Machine-Learning by Python; An introduction to classification with scikit-learn", Toru Tamaki (2020), Udemy.
 
 
