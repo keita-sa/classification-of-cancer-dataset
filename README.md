@@ -13,7 +13,7 @@ This is an example of a machine learning implementation using logistic regressio
 - scikit-learn
 
 ### Setup
-From the download button, you can download the ipynb file in JSON format. Then open it in Jupyter Notebook, you can reproduce exactly the same outputs.
+From the '<>code bottun', you can download the ipynb file in JSON format. Then open it in Jupyter Notebook, you can reproduce exactly the same outputs.
 
 ## Method
 First, the dataset is split into training and test data. Next, created a classifier and trained using the training data. Here, we create a logistic regression classifier. Based on the training outputs, we make predictions on the test data. We then check how well the predictions match the original test data.
