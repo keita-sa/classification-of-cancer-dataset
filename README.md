@@ -26,7 +26,7 @@ In this example, 8 out of 171 were found to be wrong. Since the accuracy seems t
 
 
 ## References
-"Machine-Learning by Python; An introduction to classification with scikit-learn", Toru Tamaki (2020), Udemy.
+Tamaki Toru. 2020. _Machine-Learning by Python; An introduction to classification with scikit-learn_. Udemy.
 
 
 
